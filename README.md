@@ -23,7 +23,7 @@ The core mathematical engine (`isa_engine.py`) programmatically applies atmosphe
 2. Ensure you have the required libraries installed (`pip install numpy matplotlib`).
 3. Run the dashboard file from your terminal:
    ```bash
-   python dashboard.py```
+   python dashboard.py
 4. Enter your planned UAV flight altitude when prompted to generate your custom mission map.
 
 ### 👨‍🔧About the Developer
@@ -32,4 +32,5 @@ Sajjad Mehdi Naqvi *B.Sc. Aeronautics (Avionics) | Jamia Millia Islamia*
 I am building a "Dual-Threat" engineering profile. My academic background gives me a deep, practical understanding of aircraft maintenance and systems (CAR 147/66). I build tools like this to bridge that hands-on maintenance knowledge with Core Aerospace Systems Design and autonomous software logic.
 
 [Connect with me on LinkedIn)
+
 (https://www.linkedin.com/in/sajjad-mehdi-naqvi/)
